@@ -5,10 +5,9 @@ I am currently on a year-long placement, before my final year of studying Comput
 
 #### Top Projects
 
-- [PEPNG](https://github.com/pepng-CU) (:computer:)
-- [Go Go Dungeon](https://github.com/alexandre-lavoie/Go-Go-Dungeon) (:video_game:)
-- [Deep Physics](https://github.com/alexandre-lavoie/deep-physics) (:brain:)
-- [exploit.me](https://github.com/alexandre-lavoie/exploit.me) (:shield:)
+- [Screeny](https://github.com/danperks/Screeny)
+- [Initer](https://github.com/danperks/Initer)
+- [The Circle](https://github.com/danperks/theCircle)
 
 #### Tools & Tech
 
