@@ -1,6 +1,6 @@
 ## Hey, I'm Dan 👋
 
-I'm a developer and student from the West Midlands, UK. 
+I'm a full-stack software developer and student from the West Midlands, UK. <br />
 I am currently on a year-long placement, before my final year of studying Computer Science as an Undergrad at [Coventry University](https://www.coventry.ac.uk/).
 
 ### Top Projects
