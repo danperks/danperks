@@ -11,4 +11,4 @@ I am currently on a year-long placement, before my final year of studying Comput
 
 ### Tools & Tech
 
-I usually code in [Node.JS](https://www.python.org/), with my stack consisting of [Vue.js](https://vuejs.org/), [Express](https://expressjs.com/) and either a traditional DBMS (MS SQL Server, PostgreSQL, SQLite3) or [Redis](https://redis.io/). I code with [VS Code](https://code.visualstudio.com/) on [Windows 11](https://www.microsoft.com/en-gb/windows), host on [Heroku](https://www.heroku.com/), containerise with [Docker](https://www.docker.com/) on [Ubuntu](https://ubuntu.com/).
+I usually code in [Node.JS](https://www.python.org/), with my stack consisting of [Vue.js](https://vuejs.org/), [Express](https://expressjs.com/) and either a traditional DBMS (MS SQL Server, PostgreSQL, SQLite3) or [Redis](https://redis.io/). I code with [VS Code](https://code.visualstudio.com/) on a Hackintosh/Windows dualboot, host on [Heroku](https://www.heroku.com/) and containerise with [Docker](https://www.docker.com/) on [Ubuntu](https://ubuntu.com/).
