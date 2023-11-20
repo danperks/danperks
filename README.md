@@ -5,12 +5,8 @@ I am currently in my final year of studying Computer Science as an Undergrad at 
 
 Things may be a bit quiet here as most of my work takes place in private repos, I am doing cool stuff behind the scenes I promise 🤞
 
-### Top Projects
+### Tiny Tools I Made for Myself
 
 - [Screeny](https://github.com/danperks/Screeny)
 - [Initer](https://github.com/danperks/Initer)
 - [The Circle](https://github.com/danperks/theCircle)
-
-### Tools & Tech
-
-I usually code in [Node.JS](https://www.python.org/), with my stack consisting of [Vue.js](https://vuejs.org/), [Express](https://expressjs.com/) and either a traditional DBMS (MS SQL Server, PostgreSQL, SQLite3) or [Redis](https://redis.io/). I code with [VS Code](https://code.visualstudio.com/) on a Hackintosh/Windows dualboot, host on [Heroku](https://www.heroku.com/) and containerise with [Docker](https://www.docker.com/) on [Ubuntu](https://ubuntu.com/).
